@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ooving3</string>
+    <string name="navn1">Ola Nordmann</string>
+    <string name="fødselsdato1">23/12/1999</string>
+    <string name="navn2">Kari Traa</string>
+    <string name="fødselsdato2">01/01/1950</string>
+
+    <string name="addName"> Legg til navn: </string>
+    <string name="addBirthday"> Legg til fødselsdato: </string>
+
+
+</resources>

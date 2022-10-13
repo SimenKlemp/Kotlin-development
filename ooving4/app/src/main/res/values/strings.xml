@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ooving4</string>
+    <string name="movie1"> The Dark Night</string>
+    <string name="movie2"> Call Me By Your Name</string>
+    <string name="movie3"> Wiplash</string>
+    <string name="movie4"> Inception</string>
+    <string name="movieDescription1">With the help of allies Lt. Jim Gordon and DA Harvey Dent, Batman has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.</string>
+    <string name="movieDescription2">Its the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver. Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.</string>
+    <string name="movieDescription3">Andrew Neiman is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory.  </string>
+    <string name="movieDescription4"> Dom Cobb is a thief with the rare ability to enter peoples dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. </string>
+
+    <string-array name="movies">
+        <item>@string/movie1</item>
+        <item>@string/movie2 </item>
+        <item>@string/movie3 </item>
+        <item>@string/movie4 </item>
+    </string-array>
+    <string-array name="moviePictures">
+        <item>@drawable/thedarknight</item>
+        <item>@drawable/cmbyn</item>
+        <item>@drawable/wiplash</item>
+        <item>@drawable/inception</item>
+    </string-array>
+    <string-array name="movieDescriptions">
+        <item>@string/movieDescription1</item>
+        <item>@string/movieDescription2</item>
+        <item>@string/movieDescription3</item>
+        <item>@string/movieDescription4</item>
+    </string-array>
+
+</resources>
